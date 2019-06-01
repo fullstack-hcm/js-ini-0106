@@ -27,5 +27,4 @@ if (a === 5) {
   console.log(`A ==6`);
 } else {
   console.log(`A !=6`);
-  x
 }
